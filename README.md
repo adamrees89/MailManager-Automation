@@ -1,5 +1,10 @@
 # MailManager-Automation
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+
 A small utility to scan a directory tree, record file paths and creation dates into a SQLite database, and reconcile those records against MailManager XML location files.
 
 ## Features
