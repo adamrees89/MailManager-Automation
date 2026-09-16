@@ -2,6 +2,8 @@
 
 A small utility to scan a directory tree, record file paths and creation dates into a SQLite database, and reconcile those records against MailManager XML location files.
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/adamrees89/MailManager-Automation?utm_source=oss&utm_medium=github&utm_campaign=adamrees89%2FMailManager-Automation&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 ## Features
 - Walk a target directory and capture file paths and created timestamps
 - Store records in a SQLite table for fast lookups and reconciliation
